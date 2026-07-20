@@ -1,0 +1,24 @@
+# Data — raw dataset not redistributed (download from Kaggle)
+data/raw/*
+!data/raw/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Excel / Power BI temp files
+~$*.xlsx
+~$*.pbix
+*.tmp
+
+# Jupyter
+.ipynb_checkpoints
