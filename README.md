@@ -133,4 +133,4 @@ The dataset is **synthetic** — unrealistically clean compared with real HRIS e
 
 **Sry yulianti Lobo** — MSc Mathematics · Background in statistical modelling and time-series forecasting (ARIMAX, LSTM)
 
-[LinkedIn](www.linkedin.com/in/sry-yulianti-lobo-052915118) · [Portfolio & Other projects](https://app.notion.com/p/Sry-Yulianti-Lobo-s-Portfolio-0f56e8d30501833283c581e4eb05bba7?source=copy_link)
+[LinkedIn](www.linkedin.com/in/sry-yulianti-lobo-052915118) · [Portfolio & Other projects](https://shelled-postbox-ca4.notion.site/Sry-Yulianti-Lobo-s-Portfolio-0f56e8d30501833283c581e4eb05bba7?source=copy_link))
