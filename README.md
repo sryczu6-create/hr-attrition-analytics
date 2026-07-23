@@ -116,7 +116,7 @@ hr-attrition-analytics/
 ```bash
 git clone https://github.com/sryczu6-create/hr-attrition-analytics.git
 cd hr-attrition-analytics
-pip install pandas numpy scikit-learn statsmodels matplotlib seaborn jupyter
+pip install pandas numpy scikit-learn statsmodels matplotlib seaborn jupyter 
 ```
 
 Download the dataset from [Kaggle — IBM HR Analytics Employee Attrition](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) and place it in `data/raw/`, then run `notebooks/01_cleaning_eda.ipynb`.
