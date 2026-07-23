@@ -36,7 +36,7 @@ Built with Excel Tables and structured references, PivotTables and PivotCharts, 
 
 Rebuilt in Power BI with DAX measures (`CALCULATE`, `DIVIDE`, `COUNTROWS`), automatic cross-filtering between visuals, and a custom sort column so tenure bands order logically rather than alphabetically.
 
----
+---  
 
 ## What the model added
 
