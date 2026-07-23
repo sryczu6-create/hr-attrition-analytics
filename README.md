@@ -32,7 +32,7 @@ A separate salary equity audit found **no evidence of gender-based pay inequity*
 Built with Excel Tables and structured references, PivotTables and PivotCharts, five Slicers wired to every pivot via Report Connections, an XLOOKUP employee lookup panel, COUNTIFS-based conditional rate KPIs, and conditional formatting to flag segments above the company baseline.
 
 ### Power BI
-![Power BI Dashboard](outputs/dashboard_powerbi.png)
+
 
 Rebuilt in Power BI with DAX measures (`CALCULATE`, `DIVIDE`, `COUNTROWS`), automatic cross-filtering between visuals, and a custom sort column so tenure bands order logically rather than alphabetically.
 
